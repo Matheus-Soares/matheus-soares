@@ -5,7 +5,7 @@ I'm a Software Engineer, focused on backend development, working from Santa Cata
 
 ## :earth_americas: Where to find me:
 <p align="left">
-    <a href="mailto:matheus.asoares2@gmail.com" target="blank" style="margin-right:5px">
+    <a href="mailto:matheus.asoares2@gmail.com" target="blank">
         <img align="center" src="icons/gmail.svg" alt="Email" height="36" width="40" />
     </a>
     <a href="https://linkedin.com/in/matheus-andré-soares" target="blank">
