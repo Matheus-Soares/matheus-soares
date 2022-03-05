@@ -4,14 +4,16 @@ I'm a Software Engineer, focused on backend development, working from Santa Cata
 
 ## :earth_americas: Where to find me:
 <p align="left">
-    <a href="mailto:matheus.asoares2@gmail.com" target="blank">
-        <img align="center" style="padding:5px" src="icons/gmail.svg" alt="Email" height="42" width="40" />
+    <a href="mailto:matheus.asoares2@gmail.com">
+        <img align="center" src="icons/gmail.svg" alt="Email" height="36" width="42"/>
     </a>
-    <a href="https://linkedin.com/in/matheus-andré-soares" target="blank">
-        <img align="center" style="padding:5px" src="icons/linked-in.svg" alt="Linkedin" height="36" width="40" />
+    <b>&nbsp;&nbsp;::&nbsp;</b> 
+    <a href="https://linkedin.com/in/matheus-andré-soares">
+        <img align="center" src="icons/linked-in.svg" alt="Linkedin" height="36" width="42"/>
     </a>
-    <a href="https://www.hackerrank.com/matheus_asoares2" target="blank">
-        <img align="center" style="padding:5px" src="icons/hackerrank.svg" alt="HackerRank" height="36" width="40" />
+    <b>&nbsp;::&nbsp;</b>
+    <a href="https://www.hackerrank.com/matheus_asoares2">
+        <img align="center" src="icons/hackerrank.svg" alt="HackerRank" height="36" width="42"/>
     </a>
 </p>
 
