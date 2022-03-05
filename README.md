@@ -2,10 +2,9 @@
 
 I'm a Software Engineer, focused on backend development, working from Santa Catarina - Brazil. I have a degree in Computer Engineering from the Federal University of Santa Catarina - UFSC and I love learning about new technologies and reading about topics related to this subject.
 
-
 ## :earth_americas: Where to find me:
 <p align="left">
-    <a href="mailto:matheus.asoares2@gmail.com" target="blank" style="margin-right:5px">
+    <a href="mailto:matheus.asoares2@gmail.com" target="blank">
         <img align="left" src="icons/gmail.svg" alt="Email" height="42" width="40" />
     </a>
     <a href="https://linkedin.com/in/matheus-andré-soares" target="blank">
