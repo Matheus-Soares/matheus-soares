@@ -34,6 +34,6 @@ I'm a Software Engineer, focused on backend development, working from Santa Cata
 - Databases: PostgreSQL, Datomic, MongoDB
 - Server Technologies: Kafka
 - Infra: Terraform, Kubernetes, Prometheus
-- Other: GCP
+- Other: GCP, Quarkus
 - Topics: Dynamic Programming, Data Structures, Tests, Big O Notation, Design Patterns.
 
