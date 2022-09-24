@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Soares</h1>
+<h1 align="center">Hello, I'm Matheus Soares</h1>
 
 I'm a Software Engineer, focused on backend development, working from Santa Catarina - Brazil. I have a degree in Computer Engineering from the Federal University of Santa Catarina - UFSC and I love learning about new technologies and reading about topics related to this subject.
 
